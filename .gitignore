@@ -29,3 +29,5 @@ dist/
 # Temp files
 *.tmp
 last_response.json
+.vercel
+.env*.local
